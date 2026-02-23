@@ -25,7 +25,7 @@ Implementing robust, decentralized, and secure data handling protocols for criti
 
 ##  Flagship Projects
 
-###  EduLite
+###  [EduLite](https://github.com/SiSaR-Lab/EduLite)
 A high-efficiency e-learning engine built for low-bandwidth environments. 
 * **Focus:** Bandwidth optimization, offline-first capabilities, and cross-platform compatibility.
 * **Status:** In Development / Beta Testing.
